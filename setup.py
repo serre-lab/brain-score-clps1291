@@ -32,7 +32,8 @@ requirements = [
     "jupyter",
     "pybtex",
     "peewee",
-    "pillow<9.0.0",
+    #"pillow<9.0.0",
+    "pillow",
     "psycopg2-binary"
 ]
 
